@@ -40,7 +40,6 @@ ReactDOM.render(
     </Menu>
     <div id={'test'}><Home></Home></div>
         </div>
-        <h1>Hello</h1>
     </Provider>
 , document.getElementById('root'));
 
